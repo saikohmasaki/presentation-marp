@@ -19,7 +19,7 @@ paginate: true
 
 
 <div style="text-align: right;">所属</div>
-<div style="text-align: right;">脳神経外科 高 正圭</div>
+<div style="text-align: right;">名前。</div>
 
 
 ---
